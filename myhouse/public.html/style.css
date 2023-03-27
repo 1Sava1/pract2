@@ -1,0 +1,19 @@
+h1 {text-align: center; color: #0000FF; font-family: Verdana; font-size: 20pt}
+h2{text-align: right; color:#800000; font-family: Verdana; font-size: 16pt;}
+p{text-align: justify; color: #191970; font-family: Arial; font-size: 12pt;
+font-weight: 600;}
+body {background-color: #99CCFF;}
+h3 {text-align: center; color: red; font-family: Arial; font-size: 16pt;}
+ol {list-style-type: upper-roman;}
+ul {list-style-image:url(spisok_1.jpg);}
+body {background-image: url(fon9.jpg) ;}
+h1.main{color: navy; font-family: Verdana; text-align: left; font-size: 14pt;}
+h1.golub{color: blue; font-family:Verdana; text-align: left; font-size: 14pt;}
+h1.krasn{color: red; font-family:Verdana; text-align: left; font-size: 14pt;}
+h1.zelen{color: green; font-family:Verdana; text-align: left; font-size: 14pt;}
+h1.oranzhev{color: orange; font-family:Verdana; text-align: left; font-size: 14pt;}
+p.first {color: navy; font-family: Verdana; text-align: left; font-size: 12pt;}
+p.second {color: blue; font-family: Arial; text-align: right; font-size: 13pt;}
+p.third {color: red; font-family: sans-serif; text-align: center; font-size: 14pt;}
+p.fourth {color: green; font-family: Serif; text-align: justify; font-size: 13pt;}
+p.fifth {color: orange; font-family: Arial; text-align: left; font-size: 12pt;}
